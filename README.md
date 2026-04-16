@@ -22,18 +22,22 @@ The following steps outline how the data was imported, transformed, and visualiz
 
 1. **Importing Data**  
    First, we import data from Excel into Power BI. Starting a new project, we navigate to the **"Get Data"** section and select the Excel workbook option.
+   
    <img width="492" height="548" alt="Imagen 1" src="https://github.com/user-attachments/assets/53ff2c67-40e4-4767-9999-2024c373bc0a" />
 
 2. **Choosing the Data Tables**  
    A navigator window provides a preview of the file. We select the specific tables to import (in this case, the `BDCovi19` table).
+   
    <img width="601" height="476" alt="Imagen 2" src="https://github.com/user-attachments/assets/86a7d544-0bbb-4100-8fb5-1a121e5a311a" />
 
 3. **Data Transformation**  
    Before loading, we click on **"Transform Data"** to verify that data types align with analytical needs. After adjustments, we apply the changes.
+   
    <img width="601" height="294" alt="Imagen 3" src="https://github.com/user-attachments/assets/a0468335-9168-4379-8602-d67768a2cc76" />
 
 4. **Building Visualizations**  
    Using the panel on the right side of the screen, we insert various charts to display the data.
+   
    <img width="270" height="579" alt="Imagen 4" src="https://github.com/user-attachments/assets/a44d1e88-1dcf-4126-8bc7-774f6f7edb14" />
 
 5. **Final Dashboard**  
